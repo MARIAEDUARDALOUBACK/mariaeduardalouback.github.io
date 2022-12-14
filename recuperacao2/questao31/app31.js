@@ -1,4 +1,3 @@
 function abreImg (id){
-    document.getElementById("select").innerHTML = "<img src=" +document.getElementById(id).src+ ">"
-
+    document.getElementById("vermelho").innerHTML = "<img src=" +document.getElementById(id).src+ ">"
 }

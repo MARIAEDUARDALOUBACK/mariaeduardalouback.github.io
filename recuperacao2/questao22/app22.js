@@ -1,5 +1,6 @@
-function exec() {
-    let select = document.getElementById("sel");
-    let body = document.getElementById("body");
+function cor() {
+            var select = document.getElementById("cor2");
+            var body = document.getElementById("cor3");
+            
     body.style.backgroundColor = select.value
 }
